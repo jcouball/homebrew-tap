@@ -3,9 +3,9 @@ class Scripts < Formula
   homepage "https://github.com/jcouball/scripts"
   license "MIT"
 
-  version "0.1.1"
-  url "https://github.com/jcouball/scripts/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "d6b1638a73ea01be6657fb0096d439f78634bf9f3852df970374f9d2c8a05a26"
+  version "0.1.3"
+  url "https://github.com/jcouball/scripts/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "0c8e1609d19c04e45ae4f11c0ba0d64a1b50f587f71e000f9f19038ca67909df"
 
   def install
     # The 'jcouball/scripts' repository places all executable scripts directly in the
